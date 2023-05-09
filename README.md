@@ -1,16 +1,25 @@
-### Hi there 👋
+## **Привет! Я Марина Ежова, backend-разработчик на Python.**
+### Выпускница курса на Яндекс.Практикум.
 
-<!--
-**Maru-coder/Maru-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Стек технологий: Python, Django, Django Rest Framework, PostgreSQL, Docker, Docker-Compose, Yandex.Cloud, Linux, Nginx.
 
-Here are some ideas to get you started:
+![python](./img/python.svg)
+![django](./img/django.svg)
+![docker](./img/logo-docker.svg)
+![git](./img/git.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Связаться со мной: 
+[![instagram](./img/insta.svg)](https://instagram.com/bee_maru_)
+[![telegram](./img/telegram.svg)](https://t.me/marisha_ezhova)
+[![gmail](./img/gmail.svg)](mailto:marickyarick@gmail.com)
+
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Maru-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maru-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+

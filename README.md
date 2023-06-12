@@ -13,13 +13,3 @@
 [![telegram](./img/telegram.svg)](https://t.me/marisha_ezhova)
 [![gmail](./img/gmail.svg)](mailto:marickyarick@gmail.com)
 
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Maru-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maru-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
